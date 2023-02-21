@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1sIef.jpg",
+      "title": "BlackRussia 1",
+        "text_Content": "BlackRussia, also known as the Russian Empire of Black Africans or the All-African Russia, was a proposed independent state that aimed to provide a homeland for people of African descent in Russia. It was a political project that was initiated by a group of African-American nationalists in the early 20th century, during the period of Russian revolution and the collapse of the Russian Empire.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGESxKG.jpg",
+      "title": "BlackRussia 2",
+        "text_Content": "The idea of BlackRussia was first proposed by Robert Robinson, a prominent African-American intellectual, in his 1919 book, "Black on Red: My Life in the Russian Revolution." Robinson was a journalist and a socialist who had traveled to Russia in 1917 to report on the Bolshevik Revolution. He was struck by the progressive policies of the Bolshevik government, particularly their stance on racial equality, which was a sharp contrast to the racism and segregation that he had experienced in the United States.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGESzlf.jpg",
+      "title": "BlackRussia 3",
+        "text_Content": "The idea of BlackRussia was first proposed by Robert Robinson, a prominent African-American intellectual, in his 1919 book, "Black on Red: My Life in the Russian Revolution." Robinson was a journalist and a socialist who had traveled to Russia in 1917 to report on the Bolshevik Revolution. He was struck by the progressive policies of the Bolshevik government, particularly their stance on racial equality, which was a sharp contrast to the racism and segregation that he had experienced in the United States.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGESnPs.jpg",
+      "title": "BlackRussia 4",
+        "text_Content": "The idea of BlackRussia was first proposed by Robert Robinson, a prominent African-American intellectual, in his 1919 book, "Black on Red: My Life in the Russian Revolution." Robinson was a journalist and a socialist who had traveled to Russia in 1917 to report on the Bolshevik Revolution. He was struck by the progressive policies of the Bolshevik government, particularly their stance on racial equality, which was a sharp contrast to the racism and segregation that he had experienced in the United States.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGESuHl.jpg",
+      "title": "BlackRussia 5",
+        "text_Content": "Robinson's idea was quickly taken up by other African-American intellectuals, including Cyril Briggs, the founder of the African Blood Brotherhood, and Richard B. Moore, the editor of the newspaper "The Crusader." They saw BlackRussia as a way to provide a refuge for black people who were facing racism and discrimination in the United States and other parts of the world.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGESRNS.jpg",
+      "title": "BlackRussia 6",
+        "text_Content": "The idea of BlackRussia gained momentum in the early 1920s, as the Bolshevik government actively sought to promote the rights of minority groups and create a socialist society. In 1922, the Soviet government established the Commissariat of Nationalities, which was charged with promoting the self-determination of ethnic minorities within the Soviet Union. The Commissariat provided financial and political support for a variety of nationalist movements, including those that advocated for the creation of separate states.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGESAR2.jpg",
+      "title": "BlackRussia 7",
+        "text_Content": "The idea of BlackRussia gained momentum in the early 1920s, as the Bolshevik government actively sought to promote the rights of minority groups and create a socialist society. In 1922, the Soviet government established the Commissariat of Nationalities, which was charged with promoting the self-determination of ethnic minorities within the Soviet Union. The Commissariat provided financial and political support for a variety of nationalist movements, including those that advocated for the creation of separate states.",
+        "text_Content_1": ""
 
 
 
